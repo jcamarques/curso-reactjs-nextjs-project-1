@@ -12,6 +12,12 @@
   align-items: flex-end;
 
 }
+.search-container{
+  margin-bottom: 30px;
+}
+.search-container h1{
+  margin-bottom: 30px;
+}
 
 .button{
   width: 100%;
@@ -25,4 +31,10 @@
 .button:disabled{
   background-color: #888;
   cursor: not-allowed;
+}
+
+.text-input{
+  width: 100%;
+  font-size: 30px;
+  padding: 5px 10px;
 }
